@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>purchase_frequency</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>50</order>
+        <record_id_field/>
+        <screen display_value="Details">088a8abc97100210d5e0bd3ef053af6e</screen>
+        <screen_data_item_table>x_901670_octomobil_household_products_inventory</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 08:43:57</sys_created_on>
+        <sys_id>808a8abc97100210d5e0bd3ef053af81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>purchase_frequency</sys_name>
+        <sys_package display_value="octoMobile" source="x_901670_octomobil">13324eb097100210d5e0bd3ef053af4c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="octoMobile">13324eb097100210d5e0bd3ef053af4c</sys_scope>
+        <sys_update_name>sys_sg_screen_field_808a8abc97100210d5e0bd3ef053af81</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 08:43:57</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

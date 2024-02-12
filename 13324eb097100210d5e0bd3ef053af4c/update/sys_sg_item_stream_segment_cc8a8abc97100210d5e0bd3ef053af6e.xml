@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Household_Products_Inventory Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Household_Products_Inventories">8c8a8abc97100210d5e0bd3ef053af6c</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 08:43:56</sys_created_on>
+        <sys_id>cc8a8abc97100210d5e0bd3ef053af6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Household_Products_Inventory Item Stream Segment</sys_name>
+        <sys_package display_value="octoMobile" source="x_901670_octomobil">13324eb097100210d5e0bd3ef053af4c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="octoMobile">13324eb097100210d5e0bd3ef053af4c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_cc8a8abc97100210d5e0bd3ef053af6e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 08:43:56</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

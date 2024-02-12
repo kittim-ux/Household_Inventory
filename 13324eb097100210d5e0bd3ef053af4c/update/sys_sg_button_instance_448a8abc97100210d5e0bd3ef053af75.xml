@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Household_Products_Inventory)">808a8abc97100210d5e0bd3ef053af73</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Household_Products_Inventory)</name>
+        <order/>
+        <parent>888a8abc97100210d5e0bd3ef053af70</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 08:43:56</sys_created_on>
+        <sys_id>448a8abc97100210d5e0bd3ef053af75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Household_Products_Inventory)</sys_name>
+        <sys_package display_value="octoMobile" source="x_901670_octomobil">13324eb097100210d5e0bd3ef053af4c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="octoMobile">13324eb097100210d5e0bd3ef053af4c</sys_scope>
+        <sys_update_name>sys_sg_button_instance_448a8abc97100210d5e0bd3ef053af75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 08:43:56</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=448a8abc97100210d5e0bd3ef053af75"/>
+</record_update>
