@@ -2,123 +2,123 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_901670_octomobil_household_products_inventory" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>last_purchase_date</element>
-            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8bee0efc97100210d5e0bd3ef053afa1</list_id>
+            <element>product_name</element>
+            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1cb1ac997e00210d5e0bd3ef053af24</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
-            <sys_id>4bee8a3497500210d5e0bd3ef053af2d</sys_id>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
+            <sys_id>f5cb1ac997e00210d5e0bd3ef053af24</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>notes</element>
-            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8bee0efc97100210d5e0bd3ef053afa1</list_id>
+            <element>quantity</element>
+            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1cb1ac997e00210d5e0bd3ef053af24</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
-            <sys_id>03ee8a3497500210d5e0bd3ef053af2e</sys_id>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
+            <sys_id>79cb1ac997e00210d5e0bd3ef053af24</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>price</element>
-            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8bee0efc97100210d5e0bd3ef053afa1</list_id>
+            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1cb1ac997e00210d5e0bd3ef053af24</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
-            <sys_id>83ee8a3497500210d5e0bd3ef053af2e</sys_id>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
+            <sys_id>f9cb1ac997e00210d5e0bd3ef053af24</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>product_name</element>
-            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8bee0efc97100210d5e0bd3ef053afa1</list_id>
+            <element>unit_of_measurement</element>
+            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1cb1ac997e00210d5e0bd3ef053af24</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
-            <sys_id>07ee8a3497500210d5e0bd3ef053af2e</sys_id>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
+            <sys_id>7dcb1ac997e00210d5e0bd3ef053af24</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>purchase_frequency</element>
-            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8bee0efc97100210d5e0bd3ef053afa1</list_id>
+            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1cb1ac997e00210d5e0bd3ef053af24</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
-            <sys_id>87ee8a3497500210d5e0bd3ef053af2e</sys_id>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
+            <sys_id>fdcb1ac997e00210d5e0bd3ef053af24</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>quantity</element>
-            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8bee0efc97100210d5e0bd3ef053afa1</list_id>
+            <element>supplier_vendor</element>
+            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1cb1ac997e00210d5e0bd3ef053af24</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
-            <sys_id>0bee8a3497500210d5e0bd3ef053af2e</sys_id>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
+            <sys_id>71cb1ac997e00210d5e0bd3ef053af25</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>supplier_vendor</element>
-            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8bee0efc97100210d5e0bd3ef053afa1</list_id>
+            <element>last_purchase_date</element>
+            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1cb1ac997e00210d5e0bd3ef053af24</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
-            <sys_id>8bee8a3497500210d5e0bd3ef053af2e</sys_id>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
+            <sys_id>f1cb1ac997e00210d5e0bd3ef053af25</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>unit_of_measurement</element>
-            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8bee0efc97100210d5e0bd3ef053afa1</list_id>
+            <element>notes</element>
+            <list_id display_value="x_901670_octomobil_household_products_inventory" element="NULL" name="x_901670_octomobil_household_products_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1cb1ac997e00210d5e0bd3ef053af24</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
-            <sys_id>0fee8a3497500210d5e0bd3ef053af2e</sys_id>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
+            <sys_id>75cb1ac997e00210d5e0bd3ef053af25</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -132,10 +132,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-09 09:03:16</sys_created_on>
+            <sys_created_on>2024-02-22 14:53:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8bee0efc97100210d5e0bd3ef053afa1</sys_id>
+            <sys_id>b1cb1ac997e00210d5e0bd3ef053af24</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_901670_octomobil_household_products_inventory</sys_name>
             <sys_package display_value="octoMobile" source="x_901670_octomobil">13324eb097100210d5e0bd3ef053af4c</sys_package>
@@ -143,7 +143,7 @@
             <sys_scope display_value="octoMobile">13324eb097100210d5e0bd3ef053af4c</sys_scope>
             <sys_update_name>sys_ui_list_x_901670_octomobil_household_products_inventory_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-09 09:03:16</sys_updated_on>
+            <sys_updated_on>2024-02-22 14:53:36</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

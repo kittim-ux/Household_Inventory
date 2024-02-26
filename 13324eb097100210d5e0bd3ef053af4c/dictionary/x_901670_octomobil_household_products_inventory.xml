@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="4b390e3c97100210d5e0bd3ef053afd3" label="Household_Products_Inventory" max_length="40" name="x_901670_octomobil_household_products_inventory" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Last Purchase Date:" max_length="40" name="last_purchase_date" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="40" name="notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="100" name="notes" type="string"/>
         <element attributes="omit_sys_original=true" label="Price" max_length="20" name="price" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Product Name" mandatory="true" max_length="40" name="product_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Purchase Frequency" mandatory="true" max_length="40" name="purchase_frequency" type="choice">
